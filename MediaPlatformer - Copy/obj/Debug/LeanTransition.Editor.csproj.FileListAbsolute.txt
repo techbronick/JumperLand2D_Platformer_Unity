@@ -1,0 +1,2 @@
+F:\School\University\Game and Media Creation Processes - CI6535\MediaPlatformer\obj\Debug\LeanTransition.Editor.csprojAssemblyReference.cache
+F:\School\University\Game and Media Creation Processes - CI6535\MediaPlatformer\obj\Debug\LeanTransition.Editor.csproj.CoreCompileInputs.cache
